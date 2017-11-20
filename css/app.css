@@ -1,0 +1,26 @@
+.header1{
+	background-color: #141414;
+	padding-left:10px;
+	color: white;
+}
+.header2{
+	background-image: -o-linear-gradient(bottom, #719B89 0%, #121A16 33%, #121A16 69%, #719B89 100%);
+    background-image: -moz-linear-gradient(bottom, #719B89 0%, #121A16 33%, #121A16 69%, #719B89 100%);
+    background-image: -webkit-linear-gradient(bottom, #719B89 0%, #121A16 33%, #121A16 69%, #719B89 100%);
+    background-image: -ms-linear-gradient(bottom, #719B89 0%, #121A16 33%, #121A16 69%, #719B89 100%);
+    background-image: linear-gradient(to bottom, #719B89 0%, #121A16 33%, #121A16 69%, #719B89 100%);	
+}
+.inline{
+	display: inline-block;
+	margin: 10px;
+}
+.buscar1{
+	margin: 10px;
+}
+.marver{
+	margin-top: 10px;
+	margin-bottom: 10px !Important;
+}
+.imgs{
+	box-shadow: 5px 5px 5px gray;
+}
